@@ -21,7 +21,7 @@ global.location = "Africa, Kenya, Nairobi" //ur location
 //new
 global.botname = 'KWENDOS BOT' //ur bot name
 global.ownernumber = '254717407351' //ur owner number
-global.ownername = '𝐃𝐑𝐄𝐗 𝐌𝐎𝐒𝐄' //ur owner name
+global.ownername = 'KWENDO JAMES' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://chat.whatsapp.com/Hf4W852NAroEgMCuQpLX1a"
 global.themeemoji = '😁'
